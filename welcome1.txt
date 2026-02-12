@@ -1,2 +1,3 @@
 welcome to version control
 changes from b1
+changes from b2
