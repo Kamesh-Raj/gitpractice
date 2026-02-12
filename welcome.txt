@@ -1,3 +1,2 @@
-Welcome to the version control system
 Changes for banch b1
 changes for branch b2
